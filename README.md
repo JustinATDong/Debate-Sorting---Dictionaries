@@ -1,4 +1,4 @@
-# Debate-Sorting - Dictionaries
+# Debate Sorting - Dictionaries
 
 ## TLDR
 In this activity, I create 2 empty Dictionaries for President Obama and Senator Romney to track every word that is said, ignoring Jim Lehrer's text. I strip the words from punctuation and capitilization differences and send them to it's respective dictionaries based on who said what. Then I print out the top 40 words said by each candidate.
