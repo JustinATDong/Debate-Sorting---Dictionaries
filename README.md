@@ -2,7 +2,8 @@
 
 ## TLDR
 In this activity, I create 2 empty Dictionaries for President Obama and Senator Romney to track every word that is said, ignoring Jim Lehrer's text. I strip the words from punctuation and capitilization differences and send them to it's respective dictionaries based on who said what. Then I print out the top 40 words said by each candidate.
-      ## BIGGER PICTURE: TAG CLOUDS
+
+## BIGGER PICTURE: TAG CLOUDS
 
 ## Transcript
 The transcript is in *debate.txt*. It has a particular format. Each time one of the candidates speaks, that line is marked, e.g ‘PRESIDENT OBAMA:’. Once encountered, all words are attributed to that speaker until another label occurs (sometimes it is a question from the moderator, MR. LEHRER, so you have to ignore those). Take a look at the file.  I will provide the code to read the contents of this file into one big string.
